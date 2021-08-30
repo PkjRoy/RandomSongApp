@@ -1,2 +1,2 @@
 # RandomSongApp
-capston project
+project
